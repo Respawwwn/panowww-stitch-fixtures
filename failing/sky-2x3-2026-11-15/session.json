@@ -1,0 +1,85 @@
+{
+  "format": "panowww-session",
+  "version": 2,
+  "id": "d6799c9c-e9bb-49fe-ab6c-2423277ff2ca",
+  "appVersion": "0.0.1",
+  "startedAt": "2026-11-15T12:00:00+01:00",
+  "endedAt": "2026-11-15T12:00:30+01:00",
+  "status": "completed",
+  "game": {
+    "format": "panowww-game",
+    "version": 1,
+    "id": "546ffc02-4375-4d32-80db-9205f0460b06",
+    "name": "Panowww Test - Sky",
+    "notes": "- Mario Kart Wii",
+    "startPole": "nadir",
+    "shotsPerRow": 3,
+    "rows": 2,
+    "waitAfterMoveMs": 300,
+    "waitAfterShotMs": 300,
+    "input": {
+      "device": "mouse",
+      "mode": "drag",
+      "dragButton": "left",
+      "turnDelta": 215,
+      "pitchDelta": 250,
+      "invertVertical": false
+    }
+  },
+  "zone": {
+    "displayId": "0610-a050-fd626d62",
+    "x": 66,
+    "y": 170,
+    "w": 1653,
+    "h": 849,
+    "displayW": 1728,
+    "displayH": 1117,
+    "scale": 1.0
+  },
+  "shotsExpected": 6,
+  "shotsTaken": 6,
+  "shots": [
+    {
+      "file": "r01_c01.png",
+      "row": 1,
+      "col": 1,
+      "takenAt": "2026-11-15T12:00:00+01:00",
+      "captureMs": 10
+    },
+    {
+      "file": "r01_c02.png",
+      "row": 1,
+      "col": 2,
+      "takenAt": "2026-11-15T12:00:01+01:00",
+      "captureMs": 10
+    },
+    {
+      "file": "r01_c03.png",
+      "row": 1,
+      "col": 3,
+      "takenAt": "2026-11-15T12:00:02+01:00",
+      "captureMs": 10
+    },
+    {
+      "file": "r02_c01.png",
+      "row": 2,
+      "col": 1,
+      "takenAt": "2026-11-15T12:00:03+01:00",
+      "captureMs": 10
+    },
+    {
+      "file": "r02_c02.png",
+      "row": 2,
+      "col": 2,
+      "takenAt": "2026-11-15T12:00:04+01:00",
+      "captureMs": 10
+    },
+    {
+      "file": "r02_c03.png",
+      "row": 2,
+      "col": 3,
+      "takenAt": "2026-11-15T12:00:05+01:00",
+      "captureMs": 10
+    }
+  ]
+}

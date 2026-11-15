@@ -1,1 +1,6 @@
 .DS_Store
+# What Panowww writes when this clone is its Sessions folder (manual tests).
+panorama.jpg
+panorama-preview.jpg
+*.pts
+*.zip

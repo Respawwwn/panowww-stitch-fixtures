@@ -19,6 +19,8 @@ sessions/<slug>/      the Session folder as Panowww wrote it: the Shots
                       block removed)
 expected/<slug>.jpg   the approved Panorama, written by the test itself
                       with `just stitch-regress-accept`
+failing/<slug>/       Sessions the Stitch must refuse, for the manual
+                      tests only (not in the regression test)
 ```
 
 The report of each Session (size, field of view, Steps, unaligned Shots,
@@ -35,6 +37,15 @@ not here.
 | `noclip-wow-2026-11-14_13-11-28` | NoClip over a World of Warcraft map | 5 × 7 | Matches PTGui's result. |
 | `noclip-generic-macbook-2026-11-01_13-42-30` | Mario Kart in NoClip, MacBook screen | 7 × 14 | Fourteen sky Shots in Rows 6 and 7 that only the grid can place. |
 | `world-of-warcraft-2026-11-07_23-14-46` | World of Warcraft | 7 × 14 | Two Shots dropped where the camera did not move; matches PTGui. |
+
+## As a Sessions folder
+
+Panowww lists `sessions/*` and `failing/*` as Sessions when its Sessions
+folder points at this clone (Settings → Sessions folder), which is how
+the Windows pass gets the same Sessions as the Mac. The Panoramas it
+writes there stay out of git (`.gitignore`). `failing/sky-2x3-2026-11-15`
+is six plain-sky Shots of the Mario Kart Session as a 2 × 3 Session: the
+Stitch must fail on it with *Too few Shots could be linked*.
 
 ## Adding a Session
 
