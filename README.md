@@ -35,8 +35,9 @@ not here.
 | `noclip-2026-11-14_13-50-29` | NoClip | 5 × 6 | Same scene, another run. |
 | `noclip-2026-11-14_13-52-35` | NoClip | 5 × 6 | Same scene, another run. |
 | `noclip-wow-2026-11-14_13-11-28` | NoClip over a World of Warcraft map | 5 × 7 | Matches PTGui's result. |
-| `noclip-generic-macbook-2026-11-01_13-42-30` | Mario Kart in NoClip, MacBook screen | 7 × 14 | Fourteen sky Shots in Rows 6 and 7 that only the grid can place. |
+| `noclip-generic-macbook-2026-11-01_13-42-30` | Mario Kart in NoClip, MacBook screen | 7 × 14 | Sky Shots in Rows 6 and 7 that only the grid can place: fourteen at first, four since the matcher chose its centres by texture. |
 | `world-of-warcraft-2026-11-07_23-14-46` | World of Warcraft | 7 × 14 | Two Shots dropped where the camera did not move; matches PTGui. |
+| `r6-2026-11-15_14-31-29` | Rainbow Six Siege, Windows | 5 × 7 | A parking garage of white walls and grey floor: the Rows' closing pairs had one match each and the front seam broke by 20 px until the matcher chose its centres by texture. |
 
 ## As a Sessions folder
 
