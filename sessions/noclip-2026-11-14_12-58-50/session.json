@@ -1,0 +1,252 @@
+{
+  "format": "panowww-session",
+  "version": 2,
+  "id": "6dcb6c8a-ec57-4b21-9a8e-96b1a258594c",
+  "appVersion": "1.0.0-beta.2",
+  "startedAt": "2026-11-14T12:58:50+01:00",
+  "endedAt": "2026-11-14T12:59:26+01:00",
+  "status": "completed",
+  "game": {
+    "format": "panowww-game",
+    "version": 1,
+    "id": "5725b1fa-9249-407f-8381-a66126ee2217",
+    "name": "NoClip",
+    "startPole": "nadir",
+    "shotsPerRow": 6,
+    "rows": 5,
+    "waitAfterMoveMs": 300,
+    "waitAfterShotMs": 300,
+    "input": {
+      "device": "keyboard",
+      "turnRightKey": "KeyL",
+      "lookUpKey": "KeyI",
+      "lookDownKey": "KeyK",
+      "turnHoldMs": 445,
+      "pitchHoldMs": 318
+    }
+  },
+  "zone": {
+    "displayId": "0610-a050-fd626d62",
+    "x": 11,
+    "y": 129,
+    "w": 1698,
+    "h": 976,
+    "displayW": 1728,
+    "displayH": 1117,
+    "scale": 1.0
+  },
+  "shotsExpected": 30,
+  "shotsTaken": 30,
+  "shots": [
+    {
+      "file": "r01_c01.png",
+      "row": 1,
+      "col": 1,
+      "takenAt": "2026-11-14T12:58:51+01:00",
+      "captureMs": 53
+    },
+    {
+      "file": "r01_c02.png",
+      "row": 1,
+      "col": 2,
+      "takenAt": "2026-11-14T12:58:52+01:00",
+      "captureMs": 51
+    },
+    {
+      "file": "r01_c03.png",
+      "row": 1,
+      "col": 3,
+      "takenAt": "2026-11-14T12:58:53+01:00",
+      "captureMs": 45
+    },
+    {
+      "file": "r01_c04.png",
+      "row": 1,
+      "col": 4,
+      "takenAt": "2026-11-14T12:58:54+01:00",
+      "captureMs": 55
+    },
+    {
+      "file": "r01_c05.png",
+      "row": 1,
+      "col": 5,
+      "takenAt": "2026-11-14T12:58:55+01:00",
+      "captureMs": 55
+    },
+    {
+      "file": "r01_c06.png",
+      "row": 1,
+      "col": 6,
+      "takenAt": "2026-11-14T12:58:56+01:00",
+      "captureMs": 54
+    },
+    {
+      "file": "r02_c01.png",
+      "row": 2,
+      "col": 1,
+      "takenAt": "2026-11-14T12:58:58+01:00",
+      "captureMs": 92
+    },
+    {
+      "file": "r02_c02.png",
+      "row": 2,
+      "col": 2,
+      "takenAt": "2026-11-14T12:58:59+01:00",
+      "captureMs": 53
+    },
+    {
+      "file": "r02_c03.png",
+      "row": 2,
+      "col": 3,
+      "takenAt": "2026-11-14T12:59:00+01:00",
+      "captureMs": 58
+    },
+    {
+      "file": "r02_c04.png",
+      "row": 2,
+      "col": 4,
+      "takenAt": "2026-11-14T12:59:01+01:00",
+      "captureMs": 55
+    },
+    {
+      "file": "r02_c05.png",
+      "row": 2,
+      "col": 5,
+      "takenAt": "2026-11-14T12:59:02+01:00",
+      "captureMs": 57
+    },
+    {
+      "file": "r02_c06.png",
+      "row": 2,
+      "col": 6,
+      "takenAt": "2026-11-14T12:59:03+01:00",
+      "captureMs": 55
+    },
+    {
+      "file": "r03_c01.png",
+      "row": 3,
+      "col": 1,
+      "takenAt": "2026-11-14T12:59:05+01:00",
+      "captureMs": 56
+    },
+    {
+      "file": "r03_c02.png",
+      "row": 3,
+      "col": 2,
+      "takenAt": "2026-11-14T12:59:06+01:00",
+      "captureMs": 57
+    },
+    {
+      "file": "r03_c03.png",
+      "row": 3,
+      "col": 3,
+      "takenAt": "2026-11-14T12:59:07+01:00",
+      "captureMs": 62
+    },
+    {
+      "file": "r03_c04.png",
+      "row": 3,
+      "col": 4,
+      "takenAt": "2026-11-14T12:59:08+01:00",
+      "captureMs": 54
+    },
+    {
+      "file": "r03_c05.png",
+      "row": 3,
+      "col": 5,
+      "takenAt": "2026-11-14T12:59:09+01:00",
+      "captureMs": 51
+    },
+    {
+      "file": "r03_c06.png",
+      "row": 3,
+      "col": 6,
+      "takenAt": "2026-11-14T12:59:11+01:00",
+      "captureMs": 46
+    },
+    {
+      "file": "r04_c01.png",
+      "row": 4,
+      "col": 1,
+      "takenAt": "2026-11-14T12:59:12+01:00",
+      "captureMs": 62
+    },
+    {
+      "file": "r04_c02.png",
+      "row": 4,
+      "col": 2,
+      "takenAt": "2026-11-14T12:59:13+01:00",
+      "captureMs": 58
+    },
+    {
+      "file": "r04_c03.png",
+      "row": 4,
+      "col": 3,
+      "takenAt": "2026-11-14T12:59:15+01:00",
+      "captureMs": 58
+    },
+    {
+      "file": "r04_c04.png",
+      "row": 4,
+      "col": 4,
+      "takenAt": "2026-11-14T12:59:16+01:00",
+      "captureMs": 48
+    },
+    {
+      "file": "r04_c05.png",
+      "row": 4,
+      "col": 5,
+      "takenAt": "2026-11-14T12:59:17+01:00",
+      "captureMs": 48
+    },
+    {
+      "file": "r04_c06.png",
+      "row": 4,
+      "col": 6,
+      "takenAt": "2026-11-14T12:59:18+01:00",
+      "captureMs": 62
+    },
+    {
+      "file": "r05_c01.png",
+      "row": 5,
+      "col": 1,
+      "takenAt": "2026-11-14T12:59:20+01:00",
+      "captureMs": 62
+    },
+    {
+      "file": "r05_c02.png",
+      "row": 5,
+      "col": 2,
+      "takenAt": "2026-11-14T12:59:21+01:00",
+      "captureMs": 49
+    },
+    {
+      "file": "r05_c03.png",
+      "row": 5,
+      "col": 3,
+      "takenAt": "2026-11-14T12:59:22+01:00",
+      "captureMs": 40
+    },
+    {
+      "file": "r05_c04.png",
+      "row": 5,
+      "col": 4,
+      "takenAt": "2026-11-14T12:59:23+01:00",
+      "captureMs": 54
+    },
+    {
+      "file": "r05_c05.png",
+      "row": 5,
+      "col": 5,
+      "takenAt": "2026-11-14T12:59:24+01:00",
+      "captureMs": 56
+    },
+    {
+      "file": "r05_c06.png",
+      "row": 5,
+      "col": 6,
+      "takenAt": "2026-11-14T12:59:25+01:00",
+      "captureMs": 53
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "format": "panowww-session",
+  "version": 2,
+  "id": "44559d2f-4722-41a9-9fca-fa5fd0116ba6",
+  "appVersion": "0.0.1",
+  "startedAt": "2026-11-01T13:42:31+01:00",
+  "endedAt": "2026-11-01T13:44:07+01:00",
+  "status": "completed",
+  "game": {
+    "format": "panowww-game",
+    "version": 1,
+    "id": "847f0074-6320-42f9-ba6e-cef1912ad096",
+    "name": "NoClip - Generic - MacBook Screen",
+    "notes": "- Mario Kart Wii",
+    "startPole": "nadir",
+    "shotsPerRow": 14,
+    "rows": 7,
+    "waitAfterMoveMs": 300,
+    "waitAfterShotMs": 300,
+    "input": {
+      "device": "mouse",
+      "mode": "drag",
+      "dragButton": "left",
+      "turnDelta": 215,
+      "pitchDelta": 250,
+      "invertVertical": false
+    }
+  },
+  "zone": {
+    "displayId": "0610-a050-fd626d62",
+    "x": 66,
+    "y": 170,
+    "w": 1653,
+    "h": 849,
+    "displayW": 1728,
+    "displayH": 1117,
+    "scale": 1.0
+  },
+  "shotsExpected": 98,
+  "shotsTaken": 98,
+  "shots": [
+    {
+      "file": "r01_c01.png",
+      "row": 1,
+      "col": 1,
+      "takenAt": "2026-11-01T13:42:31+01:00",
+      "captureMs": 92
+    },
+    {
+      "file": "r01_c02.png",
+      "row": 1,
+      "col": 2,
+      "takenAt": "2026-11-01T13:42:32+01:00",
+      "captureMs": 99
+    },
+    {
+      "file": "r01_c03.png",
+      "row": 1,
+      "col": 3,
+      "takenAt": "2026-11-01T13:42:33+01:00",
+      "captureMs": 93
+    },
+    {
+      "file": "r01_c04.png",
+      "row": 1,
+      "col": 4,
+      "takenAt": "2026-11-01T13:42:34+01:00",
+      "captureMs": 83
+    },
+    {
+      "file": "r01_c05.png",
+      "row": 1,
+      "col": 5,
+      "takenAt": "2026-11-01T13:42:35+01:00",
+      "captureMs": 97
+    },
+    {
+      "file": "r01_c06.png",
+      "row": 1,
+      "col": 6,
+      "takenAt": "2026-11-01T13:42:36+01:00",
+      "captureMs": 90
+    },
+    {
+      "file": "r01_c07.png",
+      "row": 1,
+      "col": 7,
+      "takenAt": "2026-11-01T13:42:37+01:00",
+      "captureMs": 80
+    },
+    {
+      "file": "r01_c08.png",
+      "row": 1,
+      "col": 8,
+      "takenAt": "2026-11-01T13:42:38+01:00",
+      "captureMs": 73
+    },
+    {
+      "file": "r01_c09.png",
+      "row": 1,
+      "col": 9,
+      "takenAt": "2026-11-01T13:42:39+01:00",
+      "captureMs": 77
+    },
+    {
+      "file": "r01_c10.png",
+      "row": 1,
+      "col": 10,
+      "takenAt": "2026-11-01T13:42:40+01:00",
+      "captureMs": 93
+    },
+    {
+      "file": "r01_c11.png",
+      "row": 1,
+      "col": 11,
+      "takenAt": "2026-11-01T13:42:41+01:00",
+      "captureMs": 103
+    },
+    {
+      "file": "r01_c12.png",
+      "row": 1,
+      "col": 12,
+      "takenAt": "2026-11-01T13:42:41+01:00",
+      "captureMs": 82
+    },
+    {
+      "file": "r01_c13.png",
+      "row": 1,
+      "col": 13,
+      "takenAt": "2026-11-01T13:42:42+01:00",
+      "captureMs": 75
+    },
+    {
+      "file": "r01_c14.png",
+      "row": 1,
+      "col": 14,
+      "takenAt": "2026-11-01T13:42:43+01:00",
+      "captureMs": 74
+    },
+    {
+      "file": "r02_c01.png",
+      "row": 2,
+      "col": 1,
+      "takenAt": "2026-11-01T13:42:45+01:00",
+      "captureMs": 77
+    },
+    {
+      "file": "r02_c02.png",
+      "row": 2,
+      "col": 2,
+      "takenAt": "2026-11-01T13:42:46+01:00",
+      "captureMs": 97
+    },
+    {
+      "file": "r02_c03.png",
+      "row": 2,
+      "col": 3,
+      "takenAt": "2026-11-01T13:42:47+01:00",
+      "captureMs": 87
+    },
+    {
+      "file": "r02_c04.png",
+      "row": 2,
+      "col": 4,
+      "takenAt": "2026-11-01T13:42:48+01:00",
+      "captureMs": 96
+    },
+    {
+      "file": "r02_c05.png",
+      "row": 2,
+      "col": 5,
+      "takenAt": "2026-11-01T13:42:49+01:00",
+      "captureMs": 73
+    },
+    {
+      "file": "r02_c06.png",
+      "row": 2,
+      "col": 6,
+      "takenAt": "2026-11-01T13:42:50+01:00",
+      "captureMs": 76
+    },
+    {
+      "file": "r02_c07.png",
+      "row": 2,
+      "col": 7,
+      "takenAt": "2026-11-01T13:42:50+01:00",
+      "captureMs": 71
+    },
+    {
+      "file": "r02_c08.png",
+      "row": 2,
+      "col": 8,
+      "takenAt": "2026-11-01T13:42:51+01:00",
+      "captureMs": 98
+    },
+    {
+      "file": "r02_c09.png",
+      "row": 2,
+      "col": 9,
+      "takenAt": "2026-11-01T13:42:52+01:00",
+      "captureMs": 101
+    },
+    {
+      "file": "r02_c10.png",
+      "row": 2,
+      "col": 10,
+      "takenAt": "2026-11-01T13:42:53+01:00",
+      "captureMs": 96
+    },
+    {
+      "file": "r02_c11.png",
+      "row": 2,
+      "col": 11,
+      "takenAt": "2026-11-01T13:42:54+01:00",
+      "captureMs": 86
+    },
+    {
+      "file": "r02_c12.png",
+      "row": 2,
+      "col": 12,
+      "takenAt": "2026-11-01T13:42:55+01:00",
+      "captureMs": 86
+    },
+    {
+      "file": "r02_c13.png",
+      "row": 2,
+      "col": 13,
+      "takenAt": "2026-11-01T13:42:56+01:00",
+      "captureMs": 75
+    },
+    {
+      "file": "r02_c14.png",
+      "row": 2,
+      "col": 14,
+      "takenAt": "2026-11-01T13:42:57+01:00",
+      "captureMs": 74
+    },
+    {
+      "file": "r03_c01.png",
+      "row": 3,
+      "col": 1,
+      "takenAt": "2026-11-01T13:42:59+01:00",
+      "captureMs": 92
+    },
+    {
+      "file": "r03_c02.png",
+      "row": 3,
+      "col": 2,
+      "takenAt": "2026-11-01T13:43:00+01:00",
+      "captureMs": 94
+    },
+    {
+      "file": "r03_c03.png",
+      "row": 3,
+      "col": 3,
+      "takenAt": "2026-11-01T13:43:00+01:00",
+      "captureMs": 83
+    },
+    {
+      "file": "r03_c04.png",
+      "row": 3,
+      "col": 4,
+      "takenAt": "2026-11-01T13:43:01+01:00",
+      "captureMs": 92
+    },
+    {
+      "file": "r03_c05.png",
+      "row": 3,
+      "col": 5,
+      "takenAt": "2026-11-01T13:43:02+01:00",
+      "captureMs": 79
+    },
+    {
+      "file": "r03_c06.png",
+      "row": 3,
+      "col": 6,
+      "takenAt": "2026-11-01T13:43:03+01:00",
+      "captureMs": 75
+    },
+    {
+      "file": "r03_c07.png",
+      "row": 3,
+      "col": 7,
+      "takenAt": "2026-11-01T13:43:04+01:00",
+      "captureMs": 71
+    },
+    {
+      "file": "r03_c08.png",
+      "row": 3,
+      "col": 8,
+      "takenAt": "2026-11-01T13:43:05+01:00",
+      "captureMs": 83
+    },
+    {
+      "file": "r03_c09.png",
+      "row": 3,
+      "col": 9,
+      "takenAt": "2026-11-01T13:43:06+01:00",
+      "captureMs": 92
+    },
+    {
+      "file": "r03_c10.png",
+      "row": 3,
+      "col": 10,
+      "takenAt": "2026-11-01T13:43:07+01:00",
+      "captureMs": 89
+    },
+    {
+      "file": "r03_c11.png",
+      "row": 3,
+      "col": 11,
+      "takenAt": "2026-11-01T13:43:08+01:00",
+      "captureMs": 84
+    },
+    {
+      "file": "r03_c12.png",
+      "row": 3,
+      "col": 12,
+      "takenAt": "2026-11-01T13:43:09+01:00",
+      "captureMs": 87
+    },
+    {
+      "file": "r03_c13.png",
+      "row": 3,
+      "col": 13,
+      "takenAt": "2026-11-01T13:43:10+01:00",
+      "captureMs": 78
+    },
+    {
+      "file": "r03_c14.png",
+      "row": 3,
+      "col": 14,
+      "takenAt": "2026-11-01T13:43:11+01:00",
+      "captureMs": 68
+    },
+    {
+      "file": "r04_c01.png",
+      "row": 4,
+      "col": 1,
+      "takenAt": "2026-11-01T13:43:12+01:00",
+      "captureMs": 92
+    },
+    {
+      "file": "r04_c02.png",
+      "row": 4,
+      "col": 2,
+      "takenAt": "2026-11-01T13:43:13+01:00",
+      "captureMs": 97
+    },
+    {
+      "file": "r04_c03.png",
+      "row": 4,
+      "col": 3,
+      "takenAt": "2026-11-01T13:43:14+01:00",
+      "captureMs": 89
+    },
+    {
+      "file": "r04_c04.png",
+      "row": 4,
+      "col": 4,
+      "takenAt": "2026-11-01T13:43:15+01:00",
+      "captureMs": 82
+    },
+    {
+      "file": "r04_c05.png",
+      "row": 4,
+      "col": 5,
+      "takenAt": "2026-11-01T13:43:16+01:00",
+      "captureMs": 77
+    },
+    {
+      "file": "r04_c06.png",
+      "row": 4,
+      "col": 6,
+      "takenAt": "2026-11-01T13:43:17+01:00",
+      "captureMs": 71
+    },
+    {
+      "file": "r04_c07.png",
+      "row": 4,
+      "col": 7,
+      "takenAt": "2026-11-01T13:43:18+01:00",
+      "captureMs": 79
+    },
+    {
+      "file": "r04_c08.png",
+      "row": 4,
+      "col": 8,
+      "takenAt": "2026-11-01T13:43:19+01:00",
+      "captureMs": 94
+    },
+    {
+      "file": "r04_c09.png",
+      "row": 4,
+      "col": 9,
+      "takenAt": "2026-11-01T13:43:20+01:00",
+      "captureMs": 93
+    },
+    {
+      "file": "r04_c10.png",
+      "row": 4,
+      "col": 10,
+      "takenAt": "2026-11-01T13:43:21+01:00",
+      "captureMs": 94
+    },
+    {
+      "file": "r04_c11.png",
+      "row": 4,
+      "col": 11,
+      "takenAt": "2026-11-01T13:43:22+01:00",
+      "captureMs": 92
+    },
+    {
+      "file": "r04_c12.png",
+      "row": 4,
+      "col": 12,
+      "takenAt": "2026-11-01T13:43:23+01:00",
+      "captureMs": 91
+    },
+    {
+      "file": "r04_c13.png",
+      "row": 4,
+      "col": 13,
+      "takenAt": "2026-11-01T13:43:24+01:00",
+      "captureMs": 75
+    },
+    {
+      "file": "r04_c14.png",
+      "row": 4,
+      "col": 14,
+      "takenAt": "2026-11-01T13:43:25+01:00",
+      "captureMs": 73
+    },
+    {
+      "file": "r05_c01.png",
+      "row": 5,
+      "col": 1,
+      "takenAt": "2026-11-01T13:43:26+01:00",
+      "captureMs": 78
+    },
+    {
+      "file": "r05_c02.png",
+      "row": 5,
+      "col": 2,
+      "takenAt": "2026-11-01T13:43:27+01:00",
+      "captureMs": 95
+    },
+    {
+      "file": "r05_c03.png",
+      "row": 5,
+      "col": 3,
+      "takenAt": "2026-11-01T13:43:28+01:00",
+      "captureMs": 83
+    },
+    {
+      "file": "r05_c04.png",
+      "row": 5,
+      "col": 4,
+      "takenAt": "2026-11-01T13:43:29+01:00",
+      "captureMs": 71
+    },
+    {
+      "file": "r05_c05.png",
+      "row": 5,
+      "col": 5,
+      "takenAt": "2026-11-01T13:43:30+01:00",
+      "captureMs": 72
+    },
+    {
+      "file": "r05_c06.png",
+      "row": 5,
+      "col": 6,
+      "takenAt": "2026-11-01T13:43:31+01:00",
+      "captureMs": 72
+    },
+    {
+      "file": "r05_c07.png",
+      "row": 5,
+      "col": 7,
+      "takenAt": "2026-11-01T13:43:32+01:00",
+      "captureMs": 73
+    },
+    {
+      "file": "r05_c08.png",
+      "row": 5,
+      "col": 8,
+      "takenAt": "2026-11-01T13:43:33+01:00",
+      "captureMs": 91
+    },
+    {
+      "file": "r05_c09.png",
+      "row": 5,
+      "col": 9,
+      "takenAt": "2026-11-01T13:43:34+01:00",
+      "captureMs": 97
+    },
+    {
+      "file": "r05_c10.png",
+      "row": 5,
+      "col": 10,
+      "takenAt": "2026-11-01T13:43:35+01:00",
+      "captureMs": 89
+    },
+    {
+      "file": "r05_c11.png",
+      "row": 5,
+      "col": 11,
+      "takenAt": "2026-11-01T13:43:36+01:00",
+      "captureMs": 93
+    },
+    {
+      "file": "r05_c12.png",
+      "row": 5,
+      "col": 12,
+      "takenAt": "2026-11-01T13:43:37+01:00",
+      "captureMs": 79
+    },
+    {
+      "file": "r05_c13.png",
+      "row": 5,
+      "col": 13,
+      "takenAt": "2026-11-01T13:43:38+01:00",
+      "captureMs": 68
+    },
+    {
+      "file": "r05_c14.png",
+      "row": 5,
+      "col": 14,
+      "takenAt": "2026-11-01T13:43:38+01:00",
+      "captureMs": 70
+    },
+    {
+      "file": "r06_c01.png",
+      "row": 6,
+      "col": 1,
+      "takenAt": "2026-11-01T13:43:40+01:00",
+      "captureMs": 81
+    },
+    {
+      "file": "r06_c02.png",
+      "row": 6,
+      "col": 2,
+      "takenAt": "2026-11-01T13:43:41+01:00",
+      "captureMs": 94
+    },
+    {
+      "file": "r06_c03.png",
+      "row": 6,
+      "col": 3,
+      "takenAt": "2026-11-01T13:43:42+01:00",
+      "captureMs": 88
+    },
+    {
+      "file": "r06_c04.png",
+      "row": 6,
+      "col": 4,
+      "takenAt": "2026-11-01T13:43:43+01:00",
+      "captureMs": 86
+    },
+    {
+      "file": "r06_c05.png",
+      "row": 6,
+      "col": 5,
+      "takenAt": "2026-11-01T13:43:44+01:00",
+      "captureMs": 75
+    },
+    {
+      "file": "r06_c06.png",
+      "row": 6,
+      "col": 6,
+      "takenAt": "2026-11-01T13:43:45+01:00",
+      "captureMs": 79
+    },
+    {
+      "file": "r06_c07.png",
+      "row": 6,
+      "col": 7,
+      "takenAt": "2026-11-01T13:43:46+01:00",
+      "captureMs": 118
+    },
+    {
+      "file": "r06_c08.png",
+      "row": 6,
+      "col": 8,
+      "takenAt": "2026-11-01T13:43:47+01:00",
+      "captureMs": 89
+    },
+    {
+      "file": "r06_c09.png",
+      "row": 6,
+      "col": 9,
+      "takenAt": "2026-11-01T13:43:48+01:00",
+      "captureMs": 95
+    },
+    {
+      "file": "r06_c10.png",
+      "row": 6,
+      "col": 10,
+      "takenAt": "2026-11-01T13:43:48+01:00",
+      "captureMs": 80
+    },
+    {
+      "file": "r06_c11.png",
+      "row": 6,
+      "col": 11,
+      "takenAt": "2026-11-01T13:43:49+01:00",
+      "captureMs": 77
+    },
+    {
+      "file": "r06_c12.png",
+      "row": 6,
+      "col": 12,
+      "takenAt": "2026-11-01T13:43:50+01:00",
+      "captureMs": 74
+    },
+    {
+      "file": "r06_c13.png",
+      "row": 6,
+      "col": 13,
+      "takenAt": "2026-11-01T13:43:51+01:00",
+      "captureMs": 70
+    },
+    {
+      "file": "r06_c14.png",
+      "row": 6,
+      "col": 14,
+      "takenAt": "2026-11-01T13:43:52+01:00",
+      "captureMs": 79
+    },
+    {
+      "file": "r07_c01.png",
+      "row": 7,
+      "col": 1,
+      "takenAt": "2026-11-01T13:43:54+01:00",
+      "captureMs": 100
+    },
+    {
+      "file": "r07_c02.png",
+      "row": 7,
+      "col": 2,
+      "takenAt": "2026-11-01T13:43:55+01:00",
+      "captureMs": 100
+    },
+    {
+      "file": "r07_c03.png",
+      "row": 7,
+      "col": 3,
+      "takenAt": "2026-11-01T13:43:56+01:00",
+      "captureMs": 80
+    },
+    {
+      "file": "r07_c04.png",
+      "row": 7,
+      "col": 4,
+      "takenAt": "2026-11-01T13:43:57+01:00",
+      "captureMs": 77
+    },
+    {
+      "file": "r07_c05.png",
+      "row": 7,
+      "col": 5,
+      "takenAt": "2026-11-01T13:43:57+01:00",
+      "captureMs": 71
+    },
+    {
+      "file": "r07_c06.png",
+      "row": 7,
+      "col": 6,
+      "takenAt": "2026-11-01T13:43:58+01:00",
+      "captureMs": 78
+    },
+    {
+      "file": "r07_c07.png",
+      "row": 7,
+      "col": 7,
+      "takenAt": "2026-11-01T13:43:59+01:00",
+      "captureMs": 82
+    },
+    {
+      "file": "r07_c08.png",
+      "row": 7,
+      "col": 8,
+      "takenAt": "2026-11-01T13:44:00+01:00",
+      "captureMs": 94
+    },
+    {
+      "file": "r07_c09.png",
+      "row": 7,
+      "col": 9,
+      "takenAt": "2026-11-01T13:44:01+01:00",
+      "captureMs": 84
+    },
+    {
+      "file": "r07_c10.png",
+      "row": 7,
+      "col": 10,
+      "takenAt": "2026-11-01T13:44:02+01:00",
+      "captureMs": 79
+    },
+    {
+      "file": "r07_c11.png",
+      "row": 7,
+      "col": 11,
+      "takenAt": "2026-11-01T13:44:03+01:00",
+      "captureMs": 75
+    },
+    {
+      "file": "r07_c12.png",
+      "row": 7,
+      "col": 12,
+      "takenAt": "2026-11-01T13:44:04+01:00",
+      "captureMs": 73
+    },
+    {
+      "file": "r07_c13.png",
+      "row": 7,
+      "col": 13,
+      "takenAt": "2026-11-01T13:44:05+01:00",
+      "captureMs": 97
+    },
+    {
+      "file": "r07_c14.png",
+      "row": 7,
+      "col": 14,
+      "takenAt": "2026-11-01T13:44:06+01:00",
+      "captureMs": 100
+    }
+  ]
+}

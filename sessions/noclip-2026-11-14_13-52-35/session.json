@@ -1,0 +1,252 @@
+{
+  "format": "panowww-session",
+  "version": 2,
+  "id": "161cec0a-7f49-4da5-be91-061b3dcbb15e",
+  "appVersion": "1.0.0-beta.2",
+  "startedAt": "2026-11-14T13:52:35+01:00",
+  "endedAt": "2026-11-14T13:53:11+01:00",
+  "status": "completed",
+  "game": {
+    "format": "panowww-game",
+    "version": 1,
+    "id": "5725b1fa-9249-407f-8381-a66126ee2217",
+    "name": "NoClip ",
+    "startPole": "nadir",
+    "shotsPerRow": 6,
+    "rows": 5,
+    "waitAfterMoveMs": 300,
+    "waitAfterShotMs": 300,
+    "input": {
+      "device": "keyboard",
+      "turnRightKey": "KeyL",
+      "lookUpKey": "KeyI",
+      "lookDownKey": "KeyK",
+      "turnHoldMs": 445,
+      "pitchHoldMs": 318
+    }
+  },
+  "zone": {
+    "displayId": "0610-a050-fd626d62",
+    "x": 11,
+    "y": 129,
+    "w": 1698,
+    "h": 976,
+    "displayW": 1728,
+    "displayH": 1117,
+    "scale": 1.0
+  },
+  "shotsExpected": 30,
+  "shotsTaken": 30,
+  "shots": [
+    {
+      "file": "r01_c01.png",
+      "row": 1,
+      "col": 1,
+      "takenAt": "2026-11-14T13:52:35+01:00",
+      "captureMs": 41
+    },
+    {
+      "file": "r01_c02.png",
+      "row": 1,
+      "col": 2,
+      "takenAt": "2026-11-14T13:52:36+01:00",
+      "captureMs": 43
+    },
+    {
+      "file": "r01_c03.png",
+      "row": 1,
+      "col": 3,
+      "takenAt": "2026-11-14T13:52:38+01:00",
+      "captureMs": 62
+    },
+    {
+      "file": "r01_c04.png",
+      "row": 1,
+      "col": 4,
+      "takenAt": "2026-11-14T13:52:39+01:00",
+      "captureMs": 41
+    },
+    {
+      "file": "r01_c05.png",
+      "row": 1,
+      "col": 5,
+      "takenAt": "2026-11-14T13:52:40+01:00",
+      "captureMs": 42
+    },
+    {
+      "file": "r01_c06.png",
+      "row": 1,
+      "col": 6,
+      "takenAt": "2026-11-14T13:52:41+01:00",
+      "captureMs": 41
+    },
+    {
+      "file": "r02_c01.png",
+      "row": 2,
+      "col": 1,
+      "takenAt": "2026-11-14T13:52:42+01:00",
+      "captureMs": 58
+    },
+    {
+      "file": "r02_c02.png",
+      "row": 2,
+      "col": 2,
+      "takenAt": "2026-11-14T13:52:44+01:00",
+      "captureMs": 61
+    },
+    {
+      "file": "r02_c03.png",
+      "row": 2,
+      "col": 3,
+      "takenAt": "2026-11-14T13:52:45+01:00",
+      "captureMs": 42
+    },
+    {
+      "file": "r02_c04.png",
+      "row": 2,
+      "col": 4,
+      "takenAt": "2026-11-14T13:52:46+01:00",
+      "captureMs": 43
+    },
+    {
+      "file": "r02_c05.png",
+      "row": 2,
+      "col": 5,
+      "takenAt": "2026-11-14T13:52:47+01:00",
+      "captureMs": 43
+    },
+    {
+      "file": "r02_c06.png",
+      "row": 2,
+      "col": 6,
+      "takenAt": "2026-11-14T13:52:48+01:00",
+      "captureMs": 49
+    },
+    {
+      "file": "r03_c01.png",
+      "row": 3,
+      "col": 1,
+      "takenAt": "2026-11-14T13:52:50+01:00",
+      "captureMs": 56
+    },
+    {
+      "file": "r03_c02.png",
+      "row": 3,
+      "col": 2,
+      "takenAt": "2026-11-14T13:52:51+01:00",
+      "captureMs": 38
+    },
+    {
+      "file": "r03_c03.png",
+      "row": 3,
+      "col": 3,
+      "takenAt": "2026-11-14T13:52:52+01:00",
+      "captureMs": 45
+    },
+    {
+      "file": "r03_c04.png",
+      "row": 3,
+      "col": 4,
+      "takenAt": "2026-11-14T13:52:53+01:00",
+      "captureMs": 41
+    },
+    {
+      "file": "r03_c05.png",
+      "row": 3,
+      "col": 5,
+      "takenAt": "2026-11-14T13:52:54+01:00",
+      "captureMs": 42
+    },
+    {
+      "file": "r03_c06.png",
+      "row": 3,
+      "col": 6,
+      "takenAt": "2026-11-14T13:52:55+01:00",
+      "captureMs": 40
+    },
+    {
+      "file": "r04_c01.png",
+      "row": 4,
+      "col": 1,
+      "takenAt": "2026-11-14T13:52:57+01:00",
+      "captureMs": 45
+    },
+    {
+      "file": "r04_c02.png",
+      "row": 4,
+      "col": 2,
+      "takenAt": "2026-11-14T13:52:58+01:00",
+      "captureMs": 40
+    },
+    {
+      "file": "r04_c03.png",
+      "row": 4,
+      "col": 3,
+      "takenAt": "2026-11-14T13:52:59+01:00",
+      "captureMs": 41
+    },
+    {
+      "file": "r04_c04.png",
+      "row": 4,
+      "col": 4,
+      "takenAt": "2026-11-14T13:53:00+01:00",
+      "captureMs": 43
+    },
+    {
+      "file": "r04_c05.png",
+      "row": 4,
+      "col": 5,
+      "takenAt": "2026-11-14T13:53:01+01:00",
+      "captureMs": 42
+    },
+    {
+      "file": "r04_c06.png",
+      "row": 4,
+      "col": 6,
+      "takenAt": "2026-11-14T13:53:02+01:00",
+      "captureMs": 43
+    },
+    {
+      "file": "r05_c01.png",
+      "row": 5,
+      "col": 1,
+      "takenAt": "2026-11-14T13:53:04+01:00",
+      "captureMs": 46
+    },
+    {
+      "file": "r05_c02.png",
+      "row": 5,
+      "col": 2,
+      "takenAt": "2026-11-14T13:53:05+01:00",
+      "captureMs": 26
+    },
+    {
+      "file": "r05_c03.png",
+      "row": 5,
+      "col": 3,
+      "takenAt": "2026-11-14T13:53:06+01:00",
+      "captureMs": 42
+    },
+    {
+      "file": "r05_c04.png",
+      "row": 5,
+      "col": 4,
+      "takenAt": "2026-11-14T13:53:07+01:00",
+      "captureMs": 41
+    },
+    {
+      "file": "r05_c05.png",
+      "row": 5,
+      "col": 5,
+      "takenAt": "2026-11-14T13:53:08+01:00",
+      "captureMs": 46
+    },
+    {
+      "file": "r05_c06.png",
+      "row": 5,
+      "col": 6,
+      "takenAt": "2026-11-14T13:53:10+01:00",
+      "captureMs": 44
+    }
+  ]
+}
