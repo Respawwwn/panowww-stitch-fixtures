@@ -17,15 +17,29 @@ would carry them otherwise.
 sessions/<slug>/      the Session folder as Panowww wrote it: the Shots
                       r<row>_c<col>.png and session.json (its Panorama
                       block removed)
-expected/<slug>.jpg   the approved Panorama, written by the test itself
-                      with `just stitch-regress-accept`
+expected/<platform>/<slug>.jpg
+                      the approved Panorama per platform (macos-aarch64,
+                      windows-x86_64, linux-x86_64), written by the test
+                      itself with `just stitch-regress-accept`
 failing/<slug>/       Sessions the Stitch must refuse, for the manual
                       tests only (not in the regression test)
 ```
 
 The report of each Session (size, field of view, Steps, unaligned Shots,
 dropped Steps) is snapshotted in the main repository next to the test,
-not here.
+one snapshot per platform, not here.
+
+## Why one reference per platform
+
+The floating point of a Stitch differs per CPU and maths library: the
+same Session moves by a hundredth of a degree between an Apple M3 Max
+and an Intel i7, and a textured Panorama such as the World of Warcraft
+one then differs by 4 levels on average, 21 % of its pixels by more than
+8. No tolerance holds two platforms to one reference and still catches a
+regression, so each platform is held to its own, byte for byte. The
+Linux references come from CI: when the workflow fails it uploads the
+`real-sessions-linux` artifact with the Panoramas and the new snapshots
+to look at.
 
 ## Sessions
 
@@ -57,15 +71,17 @@ just stitch-fixture-add "~/Pictures/Panowww/<Game>/<timestamp>" <slug>
 ```
 
 Then add a `real_session!` line to the test, run
-`just stitch-regress-accept <slug>`, look at `expected/<slug>.jpg` with
-your own eyes, and commit here and there.
+`just stitch-regress-accept <slug>` on each machine, look at
+`expected/<platform>/<slug>.jpg` with your own eyes, and commit here and
+there.
 
 ## Re-approving a reference
 
 When the Stitch changes on purpose and a Session's Panorama legitimately
 changes with it, `just stitch-regress-accept` rewrites every reference
-and snapshot. Look at each Panorama before committing: the test only
-knows what it was told to expect.
+and snapshot of the platform it runs on: run it on the Mac and on
+Windows, and take Linux's from the CI artifact. Look at each Panorama
+before committing: the test only knows what it was told to expect.
 
 ## Licence
 
